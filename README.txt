@@ -23,7 +23,7 @@ The project uses the following steps:
 
 Results
 
-The final model achieved an accuracy score of 75% on the test dataset, which suggests that it can predict the survival rate of passengers with reasonable accuracy. The model was able to identify several key factors that affect the survival rate, including age, sex, and passenger class.
+The final model achieved an accuracy score of 80% on the test dataset, which suggests that it can predict the survival rate of passengers with reasonable accuracy. The model was able to identify several key factors that affect the survival rate, including age, sex, and passenger class.
 Dependencies
 
 This project requires the following dependencies:
